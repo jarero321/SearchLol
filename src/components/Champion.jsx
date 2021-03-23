@@ -11,7 +11,7 @@ const Champion = () => {
     const [Datachamp, setDatachamp] = useState([]);
     const ConsumingApi = async (champions) => {
         try {
-            let response = await fetch(`http://ddragon.leagueoflegends.com/cdn/11.6.1/data/es_ES/champion/${champions}.json`);
+            let response = await fetch(`https://ddragon.leagueoflegends.com/cdn/11.6.1/data/es_ES/champion/${champions}.json`);
             response = await response.json()
             setDatachamp(response.data[champions]);
             setisLoading(true)

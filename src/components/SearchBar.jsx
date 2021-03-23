@@ -11,7 +11,7 @@ const SearchBar = () => {
     // consultar campeones 
     useEffect(() => {
         const GetChamps = async () => {
-            let response = await fetch("http://ddragon.leagueoflegends.com/cdn/11.6.1/data/es_ES/champion.json");
+            let response = await fetch("https://ddragon.leagueoflegends.com/cdn/11.6.1/data/es_ES/champion.json");
             response = await response.json()
             setchamps(Object.keys(response.data))
             setisLoading(false)
