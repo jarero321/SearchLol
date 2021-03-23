@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/SearchLol/static/js/main.da822e58.chunk.js",
+    "main.js.map": "/SearchLol/static/js/main.da822e58.chunk.js.map",
+    "runtime-main.js": "/SearchLol/static/js/runtime-main.9d37258f.js",
+    "runtime-main.js.map": "/SearchLol/static/js/runtime-main.9d37258f.js.map",
+    "static/js/2.6113709c.chunk.js": "/SearchLol/static/js/2.6113709c.chunk.js",
+    "static/js/2.6113709c.chunk.js.map": "/SearchLol/static/js/2.6113709c.chunk.js.map",
+    "static/js/3.dc3ce082.chunk.js": "/SearchLol/static/js/3.dc3ce082.chunk.js",
+    "static/js/3.dc3ce082.chunk.js.map": "/SearchLol/static/js/3.dc3ce082.chunk.js.map",
+    "index.html": "/SearchLol/index.html",
+    "static/js/2.6113709c.chunk.js.LICENSE.txt": "/SearchLol/static/js/2.6113709c.chunk.js.LICENSE.txt",
+    "static/media/Item1.e0488e67.svg": "/SearchLol/static/media/Item1.e0488e67.svg",
+    "static/media/Prestige.41f62501.otf": "/SearchLol/static/media/Prestige.41f62501.otf",
+    "static/media/Search.b2d51057.svg": "/SearchLol/static/media/Search.b2d51057.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d37258f.js",
+    "static/js/2.6113709c.chunk.js",
+    "static/js/main.da822e58.chunk.js"
+  ]
+}
